@@ -1,0 +1,25 @@
+{
+  "name": "omerald_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "googleapis": "^100.0.0",
+    "multer": "^1.4.4",
+    "stream": "^0.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MetaElango@github.com/MetaElango/omerald_be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaElango/omerald_be/issues"
+  },
+  "homepage": "https://github.com/MetaElango/omerald_be#readme"
+}

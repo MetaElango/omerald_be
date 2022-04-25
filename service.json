@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omerald",
+  "private_key_id": "42b844f200c4d7eedecf9fa1ae0365ec6d9d693b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuCgvvJ2RmVbaW\n1OPf5c+uLzORscilmPI57mc1uKZN5cHsKgqHuiMXTuJf608IeUiM29jAg756iOXh\nIdKaL3SwtwH9NZ3hxqAIKwh8v8n3Wh91Tf6CW58KxGeF3oJ+2IAkiLsLtzeOo/3X\n/uvdmkx+Z77Mq/2F+qLWzrBOkIdhXqaX5cHHRhwL6YAoeW1RNQjKxA97GngCDV/j\nSPuPdKMELq+1ZOCnnVR+pB0rsXVGlw16QHWzJw1HHEGnUJJQkURvnY++dDzr9jO4\nP/YdKU6lA4MiIsrHeRHTKaGXhJfDjMdu4cIMH4LGB+Zb5EaWPWnl5oZLfCE5Ov02\n/kKdq9hnAgMBAAECggEASGXgggt6fgGQ85y68JRaeOSkyKpSw+Rke0nbwGLAN65o\npbP1bnG1kEgd7nXmCindzs7Tk34aekHBkw4tXDt6iNqQZsNrmpS0VMGGBdMIkq94\nX6VixtqTRfje8bbWxSqN3+TLHnwIjftVKQmgF67MvFau7dhsHdRd8grIF96SmqOD\n8ILE2Yy9n2xiDpOO/E17RUuuSuYcHgSkAIYW+UmgwUkxZKgKdZrPhmwoMHf+HMrB\nT1mazwUUzV0c9P8RySwoWbv3s9E+JG2UVkvDFMRCvW2YdRnCwFfbprwb37pBJaFC\n3xwhGnud6RRR83oCgKF/Ib2ZVXibrorwSCnz7Pz4nQKBgQDYmWU2VZiZufRCHDTo\na069FGvYIhxR6R/MVa0SrXjxFdzNbw8QTCAxXXNlUEGMrffq7RHJB9RigJXD8PGl\nYhR2HEYM3xAtmYKdNagi3S6CJQqGpntirn/BO0sMO+ZwgzwBRA956JBdAEmIOx5P\nFLAKEfPT+7xEOjpDZtdJRYpxzQKBgQDNsrd26zbQwnFngYf/FtPVfe3F3Jx7N93E\njxsb9QaJHgb2bD1EUMDYDYtYtvDCjcldyw9M5cS7O3i3o7GHQc6kJ71+c60w5lhK\n+NCJ0+jUpORElDxC41E8NgHWfpS42OD3EWDx5fsfIuzMFGNVHZMuAFjtQzDNZJR/\nBSmPZmePAwKBgQClsUKhu/0OrBfUcutuWJhVQEf3gLCVYHa4w1mwjg+UrZrJdInb\nd8CwwsJB4JEkYvjiOBSA6oJoD+GBkNHqKAtrBtn3grRHjcVDKgbDFNw9JsTUmIqO\nxNpqIUeZxkDUFTBT75K/OU8mNdAKbN8Us8ivC2iw40P0FW74nLVYEeCEiQKBgGYb\nVN7/G5K9MrYCopOJrVXI0QLq4/J2ZOtxbi+OjdP6x9IDINaMj22wK3+6MAEjiNW6\nOrodRG78sovWAgX2MLFj2Liwi0Q+041DvaDtRCJqR7WTL+a0GFsfJAJpi0HGxsVe\nJxVs6B8oowsbA8P4jlrDaWE9fTg3uU7kLSE14CopAoGAE/9J3FGrKaF/0MliMoDF\ngBbgPU+4z8Yawh0V+MFW/houwRZ2JjNdi9xORWADw5hv9/HB2CHTTerce8Tw9pAB\n0m9wgPHsl5l8F1PnckgbbqsYGC0LXQKhN+ouzpPk76/uuWCf7fZ7nbFZ0SXiLqIN\n/YhnOi0KEa4VGrP0kpQrvZg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "serviceaccounttest@omerald.iam.gserviceaccount.com",
+  "client_id": "101352865348604369625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serviceaccounttest%40omerald.iam.gserviceaccount.com"
+}
